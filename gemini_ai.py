@@ -1,5 +1,6 @@
 import streamlit as st
 
 st.title("streamlit application")
-a=10
+for i in range(10):
+            st.write(i)
             
